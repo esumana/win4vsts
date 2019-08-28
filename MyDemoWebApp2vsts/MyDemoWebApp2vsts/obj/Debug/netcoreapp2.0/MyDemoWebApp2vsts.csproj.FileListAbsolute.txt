@@ -1,0 +1,11 @@
+C:\Course-DotNet-A2Z\App4Vsts\MyDemoWebApp2vsts\MyDemoWebApp2vsts\bin\Debug\netcoreapp2.0\MyDemoWebApp2vsts.deps.json
+C:\Course-DotNet-A2Z\App4Vsts\MyDemoWebApp2vsts\MyDemoWebApp2vsts\bin\Debug\netcoreapp2.0\MyDemoWebApp2vsts.runtimeconfig.json
+C:\Course-DotNet-A2Z\App4Vsts\MyDemoWebApp2vsts\MyDemoWebApp2vsts\bin\Debug\netcoreapp2.0\MyDemoWebApp2vsts.runtimeconfig.dev.json
+C:\Course-DotNet-A2Z\App4Vsts\MyDemoWebApp2vsts\MyDemoWebApp2vsts\bin\Debug\netcoreapp2.0\MyDemoWebApp2vsts.dll
+C:\Course-DotNet-A2Z\App4Vsts\MyDemoWebApp2vsts\MyDemoWebApp2vsts\bin\Debug\netcoreapp2.0\MyDemoWebApp2vsts.pdb
+C:\Course-DotNet-A2Z\App4Vsts\MyDemoWebApp2vsts\MyDemoWebApp2vsts\obj\Debug\netcoreapp2.0\MyDemoWebApp2vsts.csprojAssemblyReference.cache
+C:\Course-DotNet-A2Z\App4Vsts\MyDemoWebApp2vsts\MyDemoWebApp2vsts\obj\Debug\netcoreapp2.0\MyDemoWebApp2vsts.csproj.CoreCompileInputs.cache
+C:\Course-DotNet-A2Z\App4Vsts\MyDemoWebApp2vsts\MyDemoWebApp2vsts\obj\Debug\netcoreapp2.0\MyDemoWebApp2vsts.AssemblyInfoInputs.cache
+C:\Course-DotNet-A2Z\App4Vsts\MyDemoWebApp2vsts\MyDemoWebApp2vsts\obj\Debug\netcoreapp2.0\MyDemoWebApp2vsts.AssemblyInfo.cs
+C:\Course-DotNet-A2Z\App4Vsts\MyDemoWebApp2vsts\MyDemoWebApp2vsts\obj\Debug\netcoreapp2.0\MyDemoWebApp2vsts.dll
+C:\Course-DotNet-A2Z\App4Vsts\MyDemoWebApp2vsts\MyDemoWebApp2vsts\obj\Debug\netcoreapp2.0\MyDemoWebApp2vsts.pdb
